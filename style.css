@@ -73,6 +73,18 @@ body {
   width: 100%;
   left: 0%;
 }
+
+#nav-bar .col-3{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.minenavbar-link-icon{
+  width: 30%;
+  font-size: 22px;
+  color: #dc4348;
+  text-align: center;
+}
 .paralax {
   height: 460px;
   background-image: url("./assets/history-plx.jpg");
