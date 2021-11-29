@@ -85,6 +85,10 @@ body {
   font-size: 22px;
   color: #dc4348;
   text-align: center;
+
+}
+.minenavbar-link-icon i{
+  cursor: pointer;
 }
 .paralax {
   height: 460px;
